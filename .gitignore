@@ -1,6 +1,7 @@
 .idea/
 target/
 *.iml
+.gitignoregit
 
 
 
@@ -13,9 +14,6 @@ target/
 
 
 
-
-
-.gitignore
 
 
 
